@@ -1,0 +1,37 @@
+.image-large-view {
+  height: 40vh;
+  width: 23vw;
+  border-radius: 20px;
+  background-color: #042e5e;
+  margin-left: 2vw;
+  margin-top: 4vh;
+  border: 5px solid #3e7dc5;
+}
+.card-large-view {
+  border: 2px solid black;
+  display: flex;
+  width: 85vw;
+  height: 49vh;
+  background-color: #042e5e;
+  margin-left: 7vw;
+  margin-top: 5vh;
+}
+.right-section {
+  margin-left: 2vw;
+  margin-top: 13vh;
+  height: 30vh;
+  width: 56vw;
+  background-color: #042e5e;
+}
+h2,
+h4 {
+  color: white;
+  background-color: #042e5e;
+}
+h2 {
+  font-weight: 700;
+}
+h4 {
+  font-weight: 600;
+  margin-top: 3vh;
+}
